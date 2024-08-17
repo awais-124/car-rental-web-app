@@ -27,6 +27,7 @@ INSTALLATION
 
 Clone the repository:
 git clone https://github.com/awais-124/car-rental-web-app.git
+
 cd car-rental-web-app
 
 Set up the database:
